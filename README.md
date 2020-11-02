@@ -1,2 +1,2 @@
 # newton
-Embedded software for Newton series actuators.
+G300 水下机械手运行固件
